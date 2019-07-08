@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-size: 24px;
+    color: red;
+    border-style: solid 3px red;
+    text-align: center;
+    margin: 50px auto;
+}
+
+h2 {
+    font-size: 48px;
+    color: blue;
+    border: 3px solid red;
+    text-align: center;
+    margin: 50px auto;
+}
